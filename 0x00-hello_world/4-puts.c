@@ -1,6 +1,10 @@
 #include<stdio.h>
-/*
- * Using puts function to print string
+/**
+ * main - Entry Point
+ *
+ * Description: 'Using puts function to print string'
+ *
+ * Return: Always 0 (success)
  */
 int main(void)
 {
