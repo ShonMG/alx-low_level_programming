@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - print base 10 numbers 
+ * main - print numbers from 0 to 9 
  * Return: 0 on success
  */
 int main(void)
