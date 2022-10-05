@@ -7,7 +7,6 @@
 int main(void)
 {
 	int a, b;
-	
 	for (a = 0; a <= 99; a++)
 	{
 		for (b = 0; b <= 99; b++)
@@ -29,4 +28,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-}
+7014e99fd6591ee6b959}
